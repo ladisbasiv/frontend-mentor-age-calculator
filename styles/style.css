@@ -244,7 +244,7 @@ main {
   -ms-transform: scale(0.9);
   -o-transform: scale(0.9);
 }
-.calculate-button .button img:focus {
+.calculate-button .button img:focus-visible {
   outline: 2px solid var(--primary);
   outline-offset: 3px;
 }
